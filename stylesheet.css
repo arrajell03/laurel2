@@ -145,5 +145,6 @@ margin-left: 50%;
 .carousel-inner
 {
   width: 630px;
-  height: 400px; 
+  height: 400px;
+  margin: 100px;
 }
