@@ -133,9 +133,8 @@ margin-left: 50%;
   padding: 10px;
   margin-bottom: 10px; 
 }
-.carousel-item
+.carousel-inner 
 {
-  width: 740px;
-  height: 360px; 
-  
+  width: 800px;
+  height: 360px;   
 }
