@@ -133,8 +133,8 @@ margin-left: 50%;
   padding: 10px;
   margin-bottom: 10px; 
 }
-.carousel-item
+.carousel
 {
-  width: 500px;
-  height: 500px;
+  width: 640px;
+  height: 360px;
 }
