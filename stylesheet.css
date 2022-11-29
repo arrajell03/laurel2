@@ -137,6 +137,8 @@ margin-left: 50%;
 {
   width: 630px;
   height: 360px;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 nav a.active {
   background-color: #004d66;
