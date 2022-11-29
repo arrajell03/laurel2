@@ -138,3 +138,6 @@ margin-left: 50%;
   width: 630px;
   height: 360px;
 }
+nav a.active {
+  background-color: #004d66;
+  color: lemonchiffon;
